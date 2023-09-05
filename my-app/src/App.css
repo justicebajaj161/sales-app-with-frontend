@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-link{
+  color: rgb(197, 194, 194);
+}
+.navbar-bg{
+  background-color: rgb(99, 99, 241);
+}
+.navbar{
+  padding: 0;
+}
+.navbar-brand{
+  color: white;
+}
+.content-in-center{
+  margin-top: 2rem;
+  text-align: center;
+}
+.register-container{
+  border: 1px solid rgb(122, 122, 122);
+  width: 70%;
+ margin :0 auto;
+ padding-bottom: 1rem;
+}
+.log-reg-input{
+  width: 80%;
+}
+.log-reg-btn{
+  background-color: rgb(99, 99, 241);
+}
+.active{
+  color: white;
+ font-weight: bold;
+  border-radius: 30px;
+  text-decoration: none;
+}
+.table-sales{
+  margin: 0 auto;
+}
